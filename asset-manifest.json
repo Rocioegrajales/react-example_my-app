@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/react-example_my-app/static/css/main.a7abeeab.chunk.css",
+    "main.js": "/react-example_my-app/static/js/main.79d64dc5.chunk.js",
+    "main.js.map": "/react-example_my-app/static/js/main.79d64dc5.chunk.js.map",
+    "runtime-main.js": "/react-example_my-app/static/js/runtime-main.4076d745.js",
+    "runtime-main.js.map": "/react-example_my-app/static/js/runtime-main.4076d745.js.map",
+    "static/js/2.910eb6d6.chunk.js": "/react-example_my-app/static/js/2.910eb6d6.chunk.js",
+    "static/js/2.910eb6d6.chunk.js.map": "/react-example_my-app/static/js/2.910eb6d6.chunk.js.map",
+    "static/js/3.4eaeb7df.chunk.js": "/react-example_my-app/static/js/3.4eaeb7df.chunk.js",
+    "static/js/3.4eaeb7df.chunk.js.map": "/react-example_my-app/static/js/3.4eaeb7df.chunk.js.map",
+    "index.html": "/react-example_my-app/index.html",
+    "service-worker.js": "/react-example_my-app/service-worker.js",
+    "service-worker.js.map": "/react-example_my-app/service-worker.js.map",
+    "static/css/main.a7abeeab.chunk.css.map": "/react-example_my-app/static/css/main.a7abeeab.chunk.css.map",
+    "static/js/2.910eb6d6.chunk.js.LICENSE.txt": "/react-example_my-app/static/js/2.910eb6d6.chunk.js.LICENSE.txt",
+    "static/media/logo.103b5fa1.svg": "/react-example_my-app/static/media/logo.103b5fa1.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4076d745.js",
+    "static/js/2.910eb6d6.chunk.js",
+    "static/css/main.a7abeeab.chunk.css",
+    "static/js/main.79d64dc5.chunk.js"
+  ]
+}
